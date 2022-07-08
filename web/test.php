@@ -6,7 +6,7 @@
 
     <!-- Fix: meta name -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="testDescription" content="This is my test website in order to achieve a full 100 across all the spectrums in the lighthouse settings.">
+    <meta name="description" content="This is my test website in order to achieve a full 100 across all the spectrums in the lighthouse settings.">
 
     <!-- Fix: Add Title -->
     <title>Beautiful Title Nicely done</title>
