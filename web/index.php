@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World!";
+echo "Hello World!<br>";
 echo "This website is made by Muhammad Fudayl!";
