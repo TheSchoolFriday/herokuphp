@@ -8,7 +8,7 @@
 </head>
 <body>
   <!-- change the width and height 100 -->
-  <img src=".assets/wallpaper.webp" alt="5" width="200" height="200">
+  <img src=".assets/wallpaper-100w.jpg" alt="5" width="200" height="200">
 
 </body>
 </html>
