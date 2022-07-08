@@ -7,6 +7,6 @@
 </head>
 <body>
   <!-- Grab image from .assets/wallpaper.jpg -->
-  <img src=".assets/wallpaper.jpg" alt="wallpaper" style="width: 1536; height: 1024;">
+  <img src=".assets/wallpaper.jpg" alt="wallpaper" style="width: 1536px; height: 1024px;">
 </body>
 </html>
