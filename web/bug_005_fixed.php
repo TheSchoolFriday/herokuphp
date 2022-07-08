@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <img src=".asset/wallpaper.webp" alt="5" width="328" height="212">
+  <img src=".asset/wallpaper.webp" alt="5" width="100" height="100">
 
 </body>
 </html>
