@@ -7,9 +7,9 @@
   
 </head>
 <body>
-  <h1>Hello World</h1>
-  
-  <!-- Create empty js named test.js -->
-  <script src="test.js"></script>
+<h1>Page title</h1>
+  <h3>Section heading 1</h3>
+  <h3>Section heading 2</h3>
+
 </body>
 </html>
