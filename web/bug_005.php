@@ -7,9 +7,9 @@
   
 </head>
 <body>
-<h1 style="font-color: white">Page title</h1>
-  <h3 style="font-color: white">Section heading 1</h3>
-  <h3 style="font-color: white">Section heading 2</h3>
+<h1 style="color: white">Page title</h1>
+  <h3 style="color: white">Section heading 1</h3>
+  <h3 style="color: white">Section heading 2</h3>
 
 </body>
 </html>
