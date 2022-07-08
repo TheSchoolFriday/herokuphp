@@ -6,7 +6,7 @@
   <meta name="description" content="No description.">
 </head>
 <body>
-  <!-- Grab image from .assets/wallpaper.jpg -->
+  <!-- Change the image to webp -->
   <img src=".assets/wallpaper.webp" alt="wallpaper" style="width: 100%; height: 100%;">
   <img src=".assets/wallpaper.webp" alt="wallpaper" style="width: 100%; height: 100%;">
   <img src=".assets/wallpaper.webp" alt="wallpaper" style="width: 100%; height: 100%;">
