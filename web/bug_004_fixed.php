@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<!-- Add lang EN -->
-<html lang="en">
+<html>
 <head>
   <title>bug_003</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,9 +7,12 @@
   
 </head>
 <body>
+<!-- Change the h in ascending order. -->
 <h1>Page title</h1>
-  <h3>Section heading 1</h3>
-  <h3>Section heading 2</h3>
+<section>
+  <h2>Section Heading</h2>
+    <h3>Sub-section Heading</h3>
+</section>
 
 </body>
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<!-- Add lang EN -->
-<html lang="en">
+<html>
 <head>
   <title>bug_003</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
